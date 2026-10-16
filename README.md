@@ -31,7 +31,7 @@ To track or see contributions, check:
 
 ## Group Members with Their Tasks
 
-| No. | Member | Task |
+| No. | Member | Task assigned |
 |-----|--------|------|
 | 1 | Obama Kimosop | [To be assigned] |
 | 2 | Anthony Kipkoech | Implementation of Memoization and tabulation|
