@@ -37,7 +37,7 @@ To track or see contributions, check:
 | 2 | Anthony Kipkoech | Implementation of Memoization and tabulation|
 | 3 | Wambui William | Dynamic Programming |
 | 4 | Mikel Kimutai | application proggram |
-| 5 | Stephen Kinyanjui | [To be assigned] |
+| 5 | Stephen Kinyanjui | Coordinator  |
 
 
   
