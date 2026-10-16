@@ -33,7 +33,7 @@ To track or see contributions, check:
 
 | No. | Member | Task assigned |
 |-----|--------|------|
-| 1 | Obama Kimosop | [To be assigned] |
+| 1 | Obama Kimosop | Recursive Implementation |
 | 2 | Anthony Kipkoech | Implementation of Memoization and tabulation|
 | 3 | Wambui William | Dynamic Programming |
 | 4 | Mikel Kimutai | [To be assigned] |
