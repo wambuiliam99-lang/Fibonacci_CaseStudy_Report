@@ -1,7 +1,7 @@
-# Fibonacci_CaseStudy_Report
-Course: BCSF
-Unit: 
-LEC: Dismus Kitaria
+###Fibonacci_CaseStudy_Report
+**Course: BCSF**
+**Unit: Data Structures And Algorithms**
+**LEC: Dismus Kitaria**
 
 ###GROUP MEMBERS
 1  Obama Kimosop 
