@@ -36,7 +36,7 @@ To track or see contributions, check:
 | 1 | Obama Kimosop | Recursive Implementation |
 | 2 | Anthony Kipkoech | Implementation of Memoization and tabulation|
 | 3 | Wambui William | Dynamic Programming |
-| 4 | Mikel Kimutai | [application proggram] |
+| 4 | Mikel Kimutai | application proggram |
 | 5 | Stephen Kinyanjui | [To be assigned] |
 
 
