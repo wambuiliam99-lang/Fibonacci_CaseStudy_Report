@@ -2,7 +2,7 @@
 
 **Course:** BCSF  
 **Unit:** Data Structures And Algorithms  
-**LEC:** Dismus Kitaria
+**LEC:** Dismas Kitaria
 
 ## Group Members
 
